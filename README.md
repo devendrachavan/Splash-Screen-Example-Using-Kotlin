@@ -6,6 +6,3 @@ Watch Tutorial on -
 [Youtube](https://youtu.be/w6gyI4iDIK8)
 
 ![image](https://github.com/devendrachavan/Splash-Screen-Example-Using-Kotlin/blob/master/splashscreenkotlin.jpg)
-
-
-<img src=“https://github.com/devendrachavan/Splash-Screen-Example-Using-Kotlin/blob/master/splashscreenkotlin.jpg”>
