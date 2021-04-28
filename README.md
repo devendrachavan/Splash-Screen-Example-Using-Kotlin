@@ -5,5 +5,6 @@ In this tutorial we learned create spalsh screen with animation using kotlin.
 Watch Tutorial on -
 [Youtube](https://youtu.be/w6gyI4iDIK8)
 
-![GitHub Logo](/splashscreenkotlin.jpg)
+
+![ScreenShot](https://github.com/devendrachavan/Splash-Screen-Example-Using-Kotlin/blob/master/splashscreenkotlin.jpg)
 
