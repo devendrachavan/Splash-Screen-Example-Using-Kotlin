@@ -8,3 +8,4 @@ Watch Tutorial on -
 ![image](https://github.com/devendrachavan/Splash-Screen-Example-Using-Kotlin/blob/master/splashscreenkotlin.jpg)
 
 
+<img src=“https://github.com/devendrachavan/Splash-Screen-Example-Using-Kotlin/blob/master/splashscreenkotlin.jpg”>
